@@ -1,0 +1,3 @@
+.\venv\Scripts\Activate.ps1==command to activate python virtual enviroment 
+
+
